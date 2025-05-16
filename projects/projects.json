@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Solar-tracking-web",
+    "desc": "",
+    "image": "notystackandroid",
+    "category": "Web Project",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/velemseniDlamini/Solar-tracking-web.git"
+    }
+  },
+  {
+    "name": "CRUD_Basic",
+    "desc": "",
+    "image": "sppuprepandroid",
+    "category": "Web Project",
+    "links": {
+      "view": "",
+      "code": "https://github.com/velemseniDlamini/Assignment-2.git"
+    }
+  },
+  {
+    "name": "Django CRUD",
+    "desc": "",
+    "image": "",
+    "category": "Web Project",
+    "links": {
+      "view": "",
+      "code": "https://github.com/velemseniDlamini/Assignment-4.git"
+    }
+  }
+]

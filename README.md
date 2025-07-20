@@ -1,42 +1,50 @@
-# 💼 My Portfolio Website
+# 💼 My Personal Portfolio Website
 
-Welcome to my personal portfolio website! This project showcases my experience, skills, and projects as a developer. It's built using HTML, CSS, and GitHub Pages for deployment.
+Hey there! 👋  
+Welcome to my personal portfolio site — a space where I showcase who I am, the skills I've gained, and the projects I've worked on. I built this using simple HTML and CSS, and it's hosted right here on GitHub Pages.
 
-## 📁 Project Structure
-assets/ # Images, icons, and CSS files
-experience/ # Content about my professional experience
-projects/ # Project details and descriptions
-index.html # Homepage of the portfolio
+## 📁 What’s Inside
 
-## 🚀 Features
+Here’s a quick look at the main parts of the project:
 
-- Clean, responsive design
-- Sections for projects and work experience
-- Hosted using GitHub Pages
-- Easy to update and maintain
+- **assets/** – All the images, icons, and the CSS stylesheet
+- **experience/** – Highlights of my work experience
+- **projects/** – Details of the projects I’ve completed
+- **index.html** – The homepage that brings it all together
 
-## 🌐Live Demo
+## 🚀 Highlights
 
-Check out the live version of this portfolio:  
-**[https://velemseniDlamini.github.io/potfolio](https://velemseniDlamini.github.io/potfolio)**
+- Clean and responsive layout
+- Sections for my professional experience and personal projects
+- Easy to maintain and update
+- Deployed for free using GitHub Pages
 
-## Technologies Used
+## 🌐 Live Preview
+
+You can view the live version of this site here:  
+🔗 **[https://velemseniDlamini.github.io/potfolio](https://velemseniDlamini.github.io/potfolio)**
+
+## 🛠️ Tech Stack
+
+This portfolio was created using:
 
 - HTML5
 - CSS3
-- GitHub Pages
-- Git & GitHub
+- GitHub Pages (for hosting)
+- Git & GitHub (for version control)
 
-## Deployment
+## ⚙️ Deployment
 
-This project uses GitHub Actions for automatic deployment to GitHub Pages.  
-Workflow file: `.github/workflows/static.yml`
+I’ve automated the deployment using GitHub Actions — so every time I make changes and push to the main branch, the site gets updated automatically.  
+You can find the workflow config in: `.github/workflows/static.yml`
 
-## Contact
+## 📬 Get in Touch
 
-Feel free to connect with me:
+If you'd like to connect, feel free to reach out:
 
-- Email:  [velemsenidlamini6@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/velemseni-dlamini-11965823a/]
-- GitHub: [@velemseniDlamini](https://github.com/velemseniDlamini)
+- 📧 Email: [velemsenidlamini6@gmail.com](mailto:velemsenidlamini6@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/velemseni-dlamini-11965823a/](https://www.linkedin.com/in/velemseni-dlamini-11965823a/)
+- 🐙 GitHub: [@velemseniDlamini](https://github.com/velemseniDlamini)
+
+
 
